@@ -1,31 +1,31 @@
 # Les Nuits de Padhiver 2
 
-Bienvenue dans Les Nuits de Padhiver 2, une suite enrichissante de notre jeu original avec de nouvelles fonctionnalités passionnantes. Plongez-vous dans une aventure fantastique où vous devrez affronter des monstres redoutables, interagir avec des personnages intrigants, et explorer des lieux mystérieux.
+Welcome to Les Nuits de Padhiver 2, an enriching sequel to our original game with exciting new features. Immerse yourself in a fantastic adventure where you'll face formidable monsters, interact with intriguing characters, and explore mysterious locations.
 
-## Comment Jouer
+## How to Play
 
-1. **Compétences du Personnage :** Choisissez le nom et le métier de votre Personnage Joueur (PJ) au début du jeu. Chaque métier offre des compétences uniques, que ce soit la force brute d'un Barbare, la maîtrise des armes d'un Guerrier, ou les sorts magiques d'un Magicien.
+1. **Character Skills:** Choose your Player Character (PC)'s name and profession at the beginning of the game. Each profession offers unique skills, whether it's the brute strength of a Barbarian, the weapon mastery of a Warrior, or the magical spells of a Mage.
 
-2. **Exploration des Lieux :** Déplacez-vous entre les différents lieux du jeu, chacun offrant des rencontres uniques avec des PNJ, des monstres et des possibilités d'amélioration.
+2. **Exploring Locations:** Move between different locations in the game, each offering unique encounters with NPCs, monsters, and opportunities for advancement.
 
-3. **Améliorations à Mirabar :** Une fois arrivé à Mirabar, améliorez votre arme principale pour augmenter vos dégâts de base. Les magiciens peuvent également apprendre le puissant sort "Nuée de Météores" en dialoguant avec le PNJ approprié.
+3. **Upgrades in Mirabar:** Upon reaching Mirabar, upgrade your main weapon to increase your base damage. Mages can also learn the powerful spell "Meteor Swarm" by interacting with the appropriate NPC.
 
-4. **Fin du Jeu :** Atteignez le niveau 20 pour remporter la victoire. Soyez prudent, si vos points de vie atteignent zéro, le jeu est perdu.
+4. **End of Game:** Reach level 20 to achieve victory. Be cautious, if your hit points reach zero, the game is lost.
 
-## Compilation et Exécution
+## Compilation and Execution
 
-1. Compilez les fichiers source Java.
-2. Exécutez le fichier principal `Jeu` pour démarrer le jeu.
+1. Compile the Java source files.
+2. Execute the main file `Game` to start the game.
 
-### Prérequis
+### Prerequisites
 
-Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur votre machine :
+Before you begin, ensure you have installed the following on your machine:
 
-- **Java JDK** - [Télécharger Java JDK](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
+- **Java JDK** - [Download Java JDK](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
 
-### Compilation et Exécution du Projet
+### Compiling and Running the Project
 
-1. Ouvrez un terminal ou une invite de commande.
-2. Accédez au répertoire où se trouvent les fichiers source Java.
-3. Compilez les fichiers source Java.
-4. Restez dans le même répertoire et exécutez le fichier principal du programme : ```Main```.
+1. Open a terminal or command prompt.
+2. Navigate to the directory containing the Java source files.
+3. Compile the Java source files.
+4. Stay in the same directory and execute the main program file: `Main`.
